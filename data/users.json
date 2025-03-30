@@ -1,0 +1,729 @@
+{
+  "coreTeam": [
+    {
+      "id": "CT001",
+      "name": "MJ Ahmad",
+      "position": "Director General",
+      "department": "Executive",
+      "email": "mj.ahmad@trusted-ally.com",
+      "phone": "+880 1712-345678",
+      "joinDate": "2020-01-15",
+      "accessLevel": 5,
+      "password": "ct001pass",
+      "responsibilities": [
+        "Overall strategic direction of TRUSTED-ALLY Tourism",
+        "Stakeholder relationship management",
+        "Final approval on major initiatives and investments",
+        "Representing the organization to government and industry bodies"
+      ],
+      "benefits": [
+        "Executive Compensation Package",
+        "Premium Health Insurance",
+        "Company Vehicle",
+        "Executive Retirement Plan"
+      ],
+      "contractTerms": {
+        "duration": "5",
+        "renewalOption": true,
+        "nonCompete": "2 years",
+        "signedDate": "2020-01-10"
+      }
+    },
+    {
+      "id": "CT002",
+      "name": "Fatima Rahman",
+      "position": "Chief Operations Officer",
+      "department": "Operations",
+      "email": "fatima.rahman@trusted-ally.com",
+      "phone": "+880 1712-345679",
+      "joinDate": "2020-02-10",
+      "accessLevel": 4,
+      "password": "ct002pass",
+      "responsibilities": [
+        "Day-to-day operations management",
+        "Service quality assurance",
+        "Operational efficiency improvements",
+        "Staff management and development"
+      ],
+      "benefits": [
+        "Executive Compensation Package",
+        "Premium Health Insurance",
+        "Performance Bonuses",
+        "Executive Retirement Plan"
+      ],
+      "contractTerms": {
+        "duration": "4",
+        "renewalOption": true,
+        "nonCompete": "2 years",
+        "signedDate": "2020-02-05"
+      }
+    },
+    {
+      "id": "CT003",
+      "name": "Karim Chowdhury",
+      "position": "Chief Financial Officer",
+      "department": "Finance",
+      "email": "karim.chowdhury@trusted-ally.com",
+      "phone": "+880 1712-345680",
+      "joinDate": "2020-02-15",
+      "accessLevel": 4,
+      "password": "ct003pass",
+      "responsibilities": [
+        "Financial strategy and planning",
+        "Budget management",
+        "Investment oversight",
+        "Financial reporting and compliance"
+      ],
+      "benefits": [
+        "Executive Compensation Package",
+        "Premium Health Insurance",
+        "Performance Bonuses",
+        "Executive Retirement Plan"
+      ],
+      "contractTerms": {
+        "duration": "4",
+        "renewalOption": true,
+        "nonCompete": "2 years",
+        "signedDate": "2020-02-10"
+      }
+    },
+    {
+      "id": "CT004",
+      "password": "secure_password_4",
+      "name": "Nadia Islam",
+      "position": "Chief Marketing Officer",
+      "email": "nadia.islam@trusted-ally.com",
+      "phone": "+880 1892051304",
+      "department": "Marketing",
+      "joinDate": "2020-03-01",
+      "responsibilities": ["Brand strategy", "Marketing campaigns", "Public relations", "Digital presence"],
+      "benefits": [
+        "Executive compensation package",
+        "Profit sharing (8%)",
+        "Travel allowance",
+        "Executive health insurance"
+      ],
+      "contractTerms": {
+        "duration": "3 years",
+        "renewalOption": true,
+        "nonCompete": "1 year",
+        "signedDate": "2020-02-25"
+      },
+      "accessLevel": 4
+    },
+    {
+      "id": "CT005",
+      "password": "secure_password_5",
+      "name": "Rafiq Ahmed",
+      "position": "Chief Technology Officer",
+      "email": "rafiq.ahmed@trusted-ally.com",
+      "phone": "+880 1892051305",
+      "department": "IT",
+      "joinDate": "2020-03-15",
+      "responsibilities": ["Technology infrastructure", "Digital platforms", "IT security", "Technical innovation"],
+      "benefits": [
+        "Executive compensation package",
+        "Profit sharing (8%)",
+        "Technology allowance",
+        "Executive health insurance"
+      ],
+      "contractTerms": {
+        "duration": "3 years",
+        "renewalOption": true,
+        "nonCompete": "1 year",
+        "signedDate": "2020-03-10"
+      },
+      "accessLevel": 4
+    },
+    {
+      "id": "CT006",
+      "password": "secure_password_6",
+      "name": "Fatima Begum",
+      "position": "Head of Customer Experience",
+      "email": "fatima.begum@trusted-ally.com",
+      "phone": "+880 1892051306",
+      "department": "Customer Service",
+      "joinDate": "2020-04-01",
+      "responsibilities": [
+        "Customer satisfaction",
+        "Service standards",
+        "Feedback management",
+        "Experience enhancement"
+      ],
+      "benefits": ["Senior management package", "Profit sharing (5%)", "Travel allowance", "Premium health insurance"],
+      "contractTerms": {
+        "duration": "3 years",
+        "renewalOption": true,
+        "nonCompete": "1 year",
+        "signedDate": "2020-03-25"
+      },
+      "accessLevel": 3
+    },
+    {
+      "id": "CT007",
+      "password": "secure_password_7",
+      "name": "Imran Khan",
+      "position": "Head of Business Development",
+      "email": "imran.khan@trusted-ally.com",
+      "phone": "+880 1892051307",
+      "department": "Business Development",
+      "joinDate": "2020-04-15",
+      "responsibilities": [
+        "New business opportunities",
+        "Partnership development",
+        "Market expansion",
+        "Growth strategy"
+      ],
+      "benefits": ["Senior management package", "Profit sharing (5%)", "Travel allowance", "Premium health insurance"],
+      "contractTerms": {
+        "duration": "3 years",
+        "renewalOption": true,
+        "nonCompete": "1 year",
+        "signedDate": "2020-04-10"
+      },
+      "accessLevel": 3
+    }
+  ],
+  "employees": [
+    {
+      "id": "EMP001",
+      "name": "Nadia Islam",
+      "position": "Marketing Manager",
+      "department": "Marketing",
+      "email": "nadia.islam@trusted-ally.com",
+      "phone": "+880 1712-345681",
+      "joinDate": "2020-03-10",
+      "accessLevel": 3,
+      "password": "emp001pass",
+      "responsibilities": [
+        "Marketing strategy development",
+        "Campaign management",
+        "Brand development",
+        "Marketing team leadership"
+      ]
+    },
+    {
+      "id": "EMP002",
+      "name": "Rafiq Ahmed",
+      "position": "IT Manager",
+      "department": "IT",
+      "email": "rafiq.ahmed@trusted-ally.com",
+      "phone": "+880 1712-345682",
+      "joinDate": "2020-03-15",
+      "accessLevel": 3,
+      "password": "emp002pass",
+      "responsibilities": [
+        "IT infrastructure management",
+        "Software development oversight",
+        "Cybersecurity implementation",
+        "Technical support management"
+      ]
+    },
+    {
+      "id": "EMP003",
+      "name": "Sarah Rahman",
+      "position": "Customer Service Manager",
+      "department": "Customer Service",
+      "email": "sarah.rahman@trusted-ally.com",
+      "phone": "+880 1712-345683",
+      "joinDate": "2020-04-01",
+      "accessLevel": 3,
+      "password": "emp003pass",
+      "responsibilities": [
+        "Customer service strategy",
+        "Service quality monitoring",
+        "Customer feedback management",
+        "Service team leadership"
+      ]
+    },
+    {
+      "id": "EMP004",
+      "password": "emp_password_4",
+      "name": "Nasreen Jahan",
+      "position": "Customer Service Representative",
+      "email": "nasreen.jahan@trusted-ally.com",
+      "phone": "+880 1892052004",
+      "department": "Customer Service",
+      "supervisor": "CT006",
+      "joinDate": "2020-06-15",
+      "responsibilities": [
+        "Handle customer inquiries",
+        "Resolve complaints",
+        "Process bookings",
+        "Provide information"
+      ],
+      "benefits": [
+        "Standard compensation package",
+        "Performance bonus",
+        "Health insurance",
+        "Paid leave (21 days/year)"
+      ],
+      "contractTerms": {
+        "duration": "2 years",
+        "renewalOption": true,
+        "signedDate": "2020-06-10"
+      },
+      "accessLevel": 2
+    },
+    {
+      "id": "EMP005",
+      "password": "emp_password_5",
+      "name": "Farhan Ahmed",
+      "position": "IT Support Specialist",
+      "email": "farhan.ahmed@trusted-ally.com",
+      "phone": "+880 1892052005",
+      "department": "IT",
+      "supervisor": "CT005",
+      "joinDate": "2020-07-01",
+      "responsibilities": [
+        "Technical support",
+        "System maintenance",
+        "User assistance",
+        "Hardware/software troubleshooting"
+      ],
+      "benefits": [
+        "Standard compensation package",
+        "Performance bonus",
+        "Health insurance",
+        "Paid leave (21 days/year)"
+      ],
+      "contractTerms": {
+        "duration": "2 years",
+        "renewalOption": true,
+        "signedDate": "2020-06-25"
+      },
+      "accessLevel": 2
+    },
+    {
+      "id": "EMP006",
+      "password": "emp_password_6",
+      "name": "Tahmina Begum",
+      "position": "HR Coordinator",
+      "email": "tahmina.begum@trusted-ally.com",
+      "phone": "+880 1892052006",
+      "department": "Human Resources",
+      "supervisor": "CT001",
+      "joinDate": "2020-07-15",
+      "responsibilities": ["Recruitment assistance", "Employee onboarding", "HR administration", "Employee relations"],
+      "benefits": [
+        "Standard compensation package",
+        "Performance bonus",
+        "Health insurance",
+        "Paid leave (21 days/year)"
+      ],
+      "contractTerms": {
+        "duration": "2 years",
+        "renewalOption": true,
+        "signedDate": "2020-07-10"
+      },
+      "accessLevel": 2
+    },
+    {
+      "id": "EMP007",
+      "password": "emp_password_7",
+      "name": "Rahim Khan",
+      "position": "Transportation Coordinator",
+      "email": "rahim.khan@trusted-ally.com",
+      "phone": "+880 1892052007",
+      "department": "Operations",
+      "supervisor": "CT002",
+      "joinDate": "2020-08-01",
+      "responsibilities": [
+        "Coordinate transportation services",
+        "Manage vehicle fleet",
+        "Schedule drivers",
+        "Ensure safety standards"
+      ],
+      "benefits": [
+        "Standard compensation package",
+        "Performance bonus",
+        "Health insurance",
+        "Paid leave (21 days/year)"
+      ],
+      "contractTerms": {
+        "duration": "2 years",
+        "renewalOption": true,
+        "signedDate": "2020-07-25"
+      },
+      "accessLevel": 2
+    },
+    {
+      "id": "EMP008",
+      "password": "emp_password_8",
+      "name": "Sabina Yasmin",
+      "position": "Accommodation Specialist",
+      "email": "sabina.yasmin@trusted-ally.com",
+      "phone": "+880 1892052008",
+      "department": "Operations",
+      "supervisor": "CT002",
+      "joinDate": "2020-08-15",
+      "responsibilities": [
+        "Manage accommodation bookings",
+        "Liaise with hotels and resorts",
+        "Ensure quality standards",
+        "Handle special requests"
+      ],
+      "benefits": [
+        "Standard compensation package",
+        "Performance bonus",
+        "Health insurance",
+        "Paid leave (21 days/year)"
+      ],
+      "contractTerms": {
+        "duration": "2 years",
+        "renewalOption": true,
+        "signedDate": "2020-08-10"
+      },
+      "accessLevel": 2
+    },
+    {
+      "id": "EMP009",
+      "password": "emp_password_9",
+      "name": "Karim Uddin",
+      "position": "Content Creator",
+      "email": "karim.uddin@trusted-ally.com",
+      "phone": "+880 1892052009",
+      "department": "Marketing",
+      "supervisor": "CT004",
+      "joinDate": "2020-09-01",
+      "responsibilities": [
+        "Create marketing content",
+        "Photography and videography",
+        "Website content management",
+        "Brochure and material design"
+      ],
+      "benefits": [
+        "Standard compensation package",
+        "Performance bonus",
+        "Health insurance",
+        "Paid leave (21 days/year)"
+      ],
+      "contractTerms": {
+        "duration": "2 years",
+        "renewalOption": true,
+        "signedDate": "2020-08-25"
+      },
+      "accessLevel": 2
+    },
+    {
+      "id": "EMP010",
+      "password": "emp_password_10",
+      "name": "Nusrat Jahan",
+      "position": "Accounts Assistant",
+      "email": "nusrat.jahan@trusted-ally.com",
+      "phone": "+880 1892052010",
+      "department": "Finance",
+      "supervisor": "CT003",
+      "joinDate": "2020-09-15",
+      "responsibilities": [
+        "Process financial transactions",
+        "Maintain financial records",
+        "Assist with payroll",
+        "Invoice processing"
+      ],
+      "benefits": [
+        "Standard compensation package",
+        "Performance bonus",
+        "Health insurance",
+        "Paid leave (21 days/year)"
+      ],
+      "contractTerms": {
+        "duration": "2 years",
+        "renewalOption": true,
+        "signedDate": "2020-09-10"
+      },
+      "accessLevel": 2
+    },
+    {
+      "id": "EMP011",
+      "password": "emp_password_11",
+      "name": "Jamal Hossain",
+      "position": "Tour Guide",
+      "email": "jamal.hossain@trusted-ally.com",
+      "phone": "+880 1892052011",
+      "department": "Operations",
+      "supervisor": "EMP001",
+      "joinDate": "2020-10-01",
+      "responsibilities": [
+        "Guide tour groups",
+        "Provide information about attractions",
+        "Ensure customer safety",
+        "Handle basic inquiries"
+      ],
+      "benefits": [
+        "Standard compensation package",
+        "Performance bonus",
+        "Health insurance",
+        "Paid leave (18 days/year)"
+      ],
+      "contractTerms": {
+        "duration": "1 year",
+        "renewalOption": true,
+        "signedDate": "2020-09-25"
+      },
+      "accessLevel": 1
+    },
+    {
+      "id": "EMP012",
+      "password": "emp_password_12",
+      "name": "Sultana Begum",
+      "position": "Receptionist",
+      "email": "sultana.begum@trusted-ally.com",
+      "phone": "+880 1892052012",
+      "department": "Customer Service",
+      "supervisor": "CT006",
+      "joinDate": "2020-10-15",
+      "responsibilities": ["Welcome visitors", "Answer phone calls", "Direct inquiries", "Administrative support"],
+      "benefits": [
+        "Standard compensation package",
+        "Performance bonus",
+        "Health insurance",
+        "Paid leave (18 days/year)"
+      ],
+      "contractTerms": {
+        "duration": "1 year",
+        "renewalOption": true,
+        "signedDate": "2020-10-10"
+      },
+      "accessLevel": 1
+    },
+    {
+      "id": "EMP013",
+      "password": "emp_password_13",
+      "name": "Masud Rana",
+      "position": "Driver",
+      "email": "masud.rana@trusted-ally.com",
+      "phone": "+880 1892052013",
+      "department": "Operations",
+      "supervisor": "EMP007",
+      "joinDate": "2020-11-01",
+      "responsibilities": ["Transport tourists safely", "Maintain vehicle", "Follow schedules", "Assist with luggage"],
+      "benefits": [
+        "Standard compensation package",
+        "Performance bonus",
+        "Health insurance",
+        "Paid leave (18 days/year)"
+      ],
+      "contractTerms": {
+        "duration": "1 year",
+        "renewalOption": true,
+        "signedDate": "2020-10-25"
+      },
+      "accessLevel": 1
+    },
+    {
+      "id": "EMP014",
+      "password": "emp_password_14",
+      "name": "Aisha Khatun",
+      "position": "Office Assistant",
+      "email": "aisha.khatun@trusted-ally.com",
+      "phone": "+880 1892052014",
+      "department": "Administration",
+      "supervisor": "CT001",
+      "joinDate": "2020-11-15",
+      "responsibilities": [
+        "General administrative support",
+        "File management",
+        "Office supplies management",
+        "Meeting coordination"
+      ],
+      "benefits": [
+        "Standard compensation package",
+        "Performance bonus",
+        "Health insurance",
+        "Paid leave (18 days/year)"
+      ],
+      "contractTerms": {
+        "duration": "1 year",
+        "renewalOption": true,
+        "signedDate": "2020-11-10"
+      },
+      "accessLevel": 1
+    },
+    {
+      "id": "EMP015",
+      "password": "emp_password_15",
+      "name": "Habib Rahman",
+      "position": "Maintenance Technician",
+      "email": "habib.rahman@trusted-ally.com",
+      "phone": "+880 1892052015",
+      "department": "Operations",
+      "supervisor": "CT002",
+      "joinDate": "2020-12-01",
+      "responsibilities": ["Facility maintenance", "Equipment repairs", "Preventive maintenance", "Safety inspections"],
+      "benefits": [
+        "Standard compensation package",
+        "Performance bonus",
+        "Health insurance",
+        "Paid leave (18 days/year)"
+      ],
+      "contractTerms": {
+        "duration": "1 year",
+        "renewalOption": true,
+        "signedDate": "2020-11-25"
+      },
+      "accessLevel": 1
+    }
+  ],
+  "boardOfDirectors": [
+    {
+      "id": "BOD001",
+      "name": "Dr. Anisur Rahman",
+      "position": "Board Chairman",
+      "email": "anisur.rahman@trusted-ally.com",
+      "phone": "+880 1712-345684",
+      "joinDate": "2019-12-01",
+      "accessLevel": 5,
+      "password": "bod001pass"
+    },
+    {
+      "id": "BOD002",
+      "name": "Tahmina Begum",
+      "position": "Board Member",
+      "email": "tahmina.begum@trusted-ally.com",
+      "phone": "+880 1712-345685",
+      "joinDate": "2019-12-01",
+      "accessLevel": 5,
+      "password": "bod002pass"
+    },
+    {
+      "id": "BOD003",
+      "name": "Mohammed Hossain",
+      "position": "Board Member",
+      "email": "mohammed.hossain@trusted-ally.com",
+      "phone": "+880 1712-345686",
+      "joinDate": "2019-12-01",
+      "accessLevel": 5,
+      "password": "bod003pass"
+    },
+    {
+      "id": "BOD004",
+      "password": "bod_password_4",
+      "name": "Samira Ahmed",
+      "position": "Board Member",
+      "email": "samira.ahmed@trusted-ally.com",
+      "phone": "+880 1892053004",
+      "joinDate": "2020-01-01",
+      "responsibilities": [
+        "Strategic guidance",
+        "Performance monitoring",
+        "Marketing expertise",
+        "Customer experience oversight"
+      ],
+      "contractTerms": {
+        "duration": "4 years",
+        "renewalOption": true,
+        "signedDate": "2019-12-15"
+      },
+      "accessLevel": 4
+    },
+    {
+      "id": "BOD005",
+      "password": "bod_password_5",
+      "name": "Zafar Khan",
+      "position": "Board Member",
+      "email": "zafar.khan@trusted-ally.com",
+      "phone": "+880 1892053005",
+      "joinDate": "2020-01-01",
+      "responsibilities": [
+        "Strategic guidance",
+        "Performance monitoring",
+        "Technology oversight",
+        "Innovation strategy"
+      ],
+      "contractTerms": {
+        "duration": "4 years",
+        "renewalOption": true,
+        "signedDate": "2019-12-15"
+      },
+      "accessLevel": 4
+    }
+  ],
+  "investors": [
+    {
+      "id": "INV001",
+      "name": "Zubair Khan",
+      "investmentLevel": "Platinum",
+      "email": "zubair.khan@investor.com",
+      "phone": "+880 1712-345687",
+      "joinDate": "2020-01-20",
+      "accessLevel": 2,
+      "password": "inv001pass",
+      "investment": {
+        "amount": 500000,
+        "date": "2020-01-20",
+        "shares": 5,
+        "returns": 12
+      }
+    },
+    {
+      "id": "INV002",
+      "name": "Ayesha Siddiqua",
+      "investmentLevel": "Gold",
+      "email": "ayesha.siddiqua@investor.com",
+      "phone": "+880 1712-345688",
+      "joinDate": "2020-02-05",
+      "accessLevel": 2,
+      "password": "inv002pass",
+      "investment": {
+        "amount": 300000,
+        "date": "2020-02-05",
+        "shares": 3,
+        "returns": 10
+      }
+    },
+    {
+      "id": "INV003",
+      "name": "Imran Mahmud",
+      "investmentLevel": "Silver",
+      "email": "imran.mahmud@investor.com",
+      "phone": "+880 1712-345689",
+      "joinDate": "2020-02-20",
+      "accessLevel": 2,
+      "password": "inv003pass",
+      "investment": {
+        "amount": 150000,
+        "date": "2020-02-20",
+        "shares": 1.5,
+        "returns": 8
+      }
+    },
+    {
+      "id": "INV004",
+      "password": "inv_password_4",
+      "name": "Farida Begum",
+      "position": "Seed Investor",
+      "email": "farida.begum@investor.com",
+      "phone": "+880 1892054004",
+      "investmentDate": "2020-02-01",
+      "investmentAmount": 150000,
+      "equityStake": "5%",
+      "investmentTerms": {
+        "duration": "3 years",
+        "returnTarget": "15% annually",
+        "exitOptions": ["IPO", "Buyback", "Secondary Sale"],
+        "signedDate": "2020-01-20"
+      },
+      "accessLevel": 3
+    },
+    {
+      "id": "INV005",
+      "password": "inv_password_5",
+      "name": "Tariq Rahman",
+      "position": "Strategic Investor",
+      "email": "tariq.rahman@investor.com",
+      "phone": "+880 1892054005",
+      "investmentDate": "2020-08-01",
+      "investmentAmount": 400000,
+      "equityStake": "12%",
+      "investmentTerms": {
+        "duration": "5 years",
+        "returnTarget": "18% annually",
+        "exitOptions": ["IPO", "Buyback", "Secondary Sale"],
+        "signedDate": "2020-07-20"
+      },
+      "accessLevel": 3
+    }
+  ]
+}
+
