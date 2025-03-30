@@ -104,7 +104,7 @@ const Footer = () => {
             <ul className="space-y-2 text-muted-foreground">
               <li className="flex items-start gap-2">
                 <MapPin className="h-4 w-4 text-primary flex-shrink-0 mt-0.5" />
-                <span>01/A, Ally Street, Cox's Bazar, Chittagong, BD - 4701</span>
+                <span>Ally Street, Cox's Bazar, Chittagong, BD - 4701</span>
               </li>
               <li className="flex items-start gap-2">
                 <Mail className="h-4 w-4 text-primary flex-shrink-0 mt-0.5" />
@@ -114,8 +114,8 @@ const Footer = () => {
               </li>
               <li className="flex items-start gap-2">
                 <Phone className="h-4 w-4 text-primary flex-shrink-0 mt-0.5" />
-                <a href="tel:+8801892051303" className="hover:text-primary transition-colors">
-                  +880 1892051303
+                <a href="tel:+8801336221217" className="hover:text-primary transition-colors">
+                  +880 1336221217
                 </a>
               </li>
             </ul>
